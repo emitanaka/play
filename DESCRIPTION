@@ -15,3 +15,5 @@ Config/testthat/edition: 3
 Depends: 
     R (>= 3.5)
 LazyData: true
+URL: https://github.com/emitanaka/play
+BugReports: https://github.com/emitanaka/play/issues
